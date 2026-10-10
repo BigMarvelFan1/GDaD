@@ -5,8 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/MyProject/Content/Fireball.uasset",
-				"E:/MyProject/Content/Untitled.umap"
+				"C:/Users/harri/Desktop/MyProject/Content/Fireball.uasset",
+				"C:/Users/harri/Desktop/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/NW/3NGB5P0T1U5VB52G7AWUFL.uasset",
+				"C:/Users/harri/Desktop/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/O8/TPWYK01HFM9FRQEWW57LXF.uasset",
+				"C:/Users/harri/Desktop/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset",
+				"C:/Users/harri/Desktop/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset"
 			]
 		}
 	]
