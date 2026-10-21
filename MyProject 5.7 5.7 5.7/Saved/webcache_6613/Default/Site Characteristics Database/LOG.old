@@ -1,3 +1,6 @@
-2026/10/16-13:41:02.953 43e8 Reusing MANIFEST C:\Users\u2582670\OneDrive - University of Huddersfield\Desktop\GDaD\MyProject 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/10/16-13:41:02.965 43e8 Recovering log #6
-2026/10/16-13:41:02.965 43e8 Reusing old log C:\Users\u2582670\OneDrive - University of Huddersfield\Desktop\GDaD\MyProject 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
+2026/10/21-12:28:33.734 2e94 Log #6: 6 ops saved to Table #7 OK
+2026/10/21-12:28:33.736 2e94 Archiving C:\Users\u2582670\OneDrive - University of Huddersfield\Desktop\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/10/21-12:28:33.737 2e94 Table #4: 5 entries OK
+2026/10/21-12:28:33.737 2e94 Table #7: 6 entries OK
+2026/10/21-12:28:33.740 2e94 Archiving C:\Users\u2582670\OneDrive - University of Huddersfield\Desktop\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/21-12:28:33.755 2e94 **** Repaired leveldb C:\Users\u2582670\OneDrive - University of Huddersfield\Desktop\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 509 bytes. Some data may have been lost. ****
