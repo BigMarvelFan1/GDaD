@@ -1,0 +1,244 @@
+[15744:8012:1118/093235.881:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15744:8012:1118/093235.925:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[15744:8012:1118/093235.962:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[15744:8012:1118/093235.963:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:9772:1118/093235.966:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15744:8012:1118/093235.995:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15744:8012:1118/093235.995:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:8012:1118/093236.004:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:8012:1118/093236.009:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:8012:1118/093236.113:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:8012:1118/093241.931:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:8012:1118/093241.931:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:16824:1118/093241.936:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\u2582670\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\u2582670\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15744:16824:1118/093241.938:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\u2582670\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\u2582670\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15744:16824:1118/093241.940:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\u2582670\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\u2582670\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15744:16824:1118/093241.943:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\u2582670\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\u2582670\GDaD\MyProject 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15744:8012:1118/093243.740:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[21676:21804:1118/093244.354:ERROR:backend_impl.cc(989)] Critical error found -8
+[15744:2648:1118/093244.355:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15744:2648:1118/093244.358:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21676:21804:1118/093244.489:WARNING:storage_block-inl.h(138)] Failed data load.
+[21676:21804:1118/093244.489:WARNING:storage_block-inl.h(138)] Failed data load.
+[21676:21804:1118/093244.491:ERROR:entry_impl.cc(955)] Failed to save user data
+[15744:8012:1118/093244.751:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:8012:1118/093244.751:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[15744:8012:1118/093244.903:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[536:14308:1118/093245.370:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F9596657912340061AFAB371A60120A2 will be ignored
+[15744:8012:1118/093306.088:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[21676:6832:1118/093342.708:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[15744:12024:1118/093358.065:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=72})
+[15744:12024:1118/093359.063:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=71})
+[15744:12024:1118/093400.059:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=72})
+[15744:12024:1118/093402.065:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=71})
+[15744:12024:1118/093404.061:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=100})
+[15744:12024:1118/093414.080:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=75})
+[15744:12024:1118/093417.075:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=73})
+[15744:12024:1118/093418.083:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=76})
+[15744:12024:1118/093419.084:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=75})
+[15744:12024:1118/093420.076:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=73})
+[15744:12024:1118/093421.085:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=100})
+[15744:12024:1118/093431.096:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=70})
+[15744:12024:1118/093432.084:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=69})
+[15744:12024:1118/093434.087:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=72})
+[15744:12024:1118/093435.086:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=73})
+[21676:6832:1118/093442.787:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[15744:12024:1118/093443.092:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=74})
+[15744:12024:1118/093444.104:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=73})
+[15744:12024:1118/093445.102:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=74})
+[15744:12024:1118/093447.111:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=76})
+[15744:12024:1118/093448.112:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=77})
+[15744:12024:1118/093449.114:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=78})
+[15744:12024:1118/093450.102:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=79})
+[15744:12024:1118/093451.100:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=100})
+[15744:12024:1118/093502.121:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=79})
+[15744:12024:1118/093503.121:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=77})
+[15744:12024:1118/093504.118:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=76})
+[15744:12024:1118/093505.123:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=75})
+[15744:12024:1118/093508.126:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=76})
+[15744:12024:1118/093509.132:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=75})
+[15744:12024:1118/093510.120:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=77})
+[15744:12024:1118/093513.127:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=78})
+[15744:12024:1118/093514.130:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=79})
+[15744:12024:1118/093515.138:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=80})
+[15744:12024:1118/093516.137:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=81})
+[15744:12024:1118/093517.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=82})
+[15744:12024:1118/093519.137:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=83})
+[15744:12024:1118/093523.129:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=82})
+[15744:12024:1118/093525.141:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=81})
+[15744:12024:1118/093527.146:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=80})
+[15744:12024:1118/093528.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=79})
+[15744:12024:1118/093529.142:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=77})
+[15744:12024:1118/093530.137:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=76})
+[15744:12024:1118/093531.148:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=75})
+[15744:12024:1118/093532.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=74})
+[15744:12024:1118/093535.146:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=75})
+[15744:12024:1118/093536.146:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=76})
+[15744:12024:1118/093538.144:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=77})
+[15744:12024:1118/093540.152:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=79})
+[15744:12024:1118/093541.147:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=100})
+[15744:12024:1118/093643.198:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=85})
+[15744:12024:1118/093644.198:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007444001B6D40}, {new_limit=100})
+[15744:8012:1118/094819.903:VERBOSE1:device_event_log_impl.cc(198)] [09:48:19.903] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/094819.903:VERBOSE1:device_event_log_impl.cc(198)] [09:48:19.903] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101058.330:VERBOSE1:device_event_log_impl.cc(198)] [10:10:58.330] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101058.330:VERBOSE1:device_event_log_impl.cc(198)] [10:10:58.330] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101430.425:VERBOSE1:device_event_log_impl.cc(198)] [10:14:30.425] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101430.425:VERBOSE1:device_event_log_impl.cc(198)] [10:14:30.425] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101447.040:VERBOSE1:device_event_log_impl.cc(198)] [10:14:47.040] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101447.040:VERBOSE1:device_event_log_impl.cc(198)] [10:14:47.040] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101506.330:VERBOSE1:device_event_log_impl.cc(198)] [10:15:06.329] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101506.330:VERBOSE1:device_event_log_impl.cc(198)] [10:15:06.329] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101525.996:VERBOSE1:device_event_log_impl.cc(198)] [10:15:25.996] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101525.997:VERBOSE1:device_event_log_impl.cc(198)] [10:15:25.996] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101527.796:VERBOSE1:device_event_log_impl.cc(198)] [10:15:27.795] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101527.796:VERBOSE1:device_event_log_impl.cc(198)] [10:15:27.795] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101542.305:VERBOSE1:device_event_log_impl.cc(198)] [10:15:42.305] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101542.305:VERBOSE1:device_event_log_impl.cc(198)] [10:15:42.305] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101649.613:VERBOSE1:device_event_log_impl.cc(198)] [10:16:49.613] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101649.613:VERBOSE1:device_event_log_impl.cc(198)] [10:16:49.613] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101717.836:VERBOSE1:device_event_log_impl.cc(198)] [10:17:17.836] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101717.836:VERBOSE1:device_event_log_impl.cc(198)] [10:17:17.836] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/101827.262:VERBOSE1:device_event_log_impl.cc(198)] [10:18:27.262] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/101827.262:VERBOSE1:device_event_log_impl.cc(198)] [10:18:27.262] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102049.095:VERBOSE1:device_event_log_impl.cc(198)] [10:20:49.095] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102049.095:VERBOSE1:device_event_log_impl.cc(198)] [10:20:49.095] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102115.207:VERBOSE1:device_event_log_impl.cc(198)] [10:21:15.207] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102115.207:VERBOSE1:device_event_log_impl.cc(198)] [10:21:15.207] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102138.603:VERBOSE1:device_event_log_impl.cc(198)] [10:21:38.603] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102138.604:VERBOSE1:device_event_log_impl.cc(198)] [10:21:38.603] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102158.456:VERBOSE1:device_event_log_impl.cc(198)] [10:21:58.456] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102158.456:VERBOSE1:device_event_log_impl.cc(198)] [10:21:58.456] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102216.486:VERBOSE1:device_event_log_impl.cc(198)] [10:22:16.485] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102216.486:VERBOSE1:device_event_log_impl.cc(198)] [10:22:16.485] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102246.224:VERBOSE1:device_event_log_impl.cc(198)] [10:22:46.222] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102246.224:VERBOSE1:device_event_log_impl.cc(198)] [10:22:46.222] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102251.348:VERBOSE1:device_event_log_impl.cc(198)] [10:22:51.347] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102251.348:VERBOSE1:device_event_log_impl.cc(198)] [10:22:51.347] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102313.774:VERBOSE1:device_event_log_impl.cc(198)] [10:23:13.774] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102313.774:VERBOSE1:device_event_log_impl.cc(198)] [10:23:13.774] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102338.487:VERBOSE1:device_event_log_impl.cc(198)] [10:23:38.487] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102338.487:VERBOSE1:device_event_log_impl.cc(198)] [10:23:38.488] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102437.768:VERBOSE1:device_event_log_impl.cc(198)] [10:24:37.768] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102437.768:VERBOSE1:device_event_log_impl.cc(198)] [10:24:37.768] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102527.798:VERBOSE1:device_event_log_impl.cc(198)] [10:25:27.797] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102527.798:VERBOSE1:device_event_log_impl.cc(198)] [10:25:27.797] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102547.599:VERBOSE1:device_event_log_impl.cc(198)] [10:25:47.599] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102547.599:VERBOSE1:device_event_log_impl.cc(198)] [10:25:47.599] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102608.116:VERBOSE1:device_event_log_impl.cc(198)] [10:26:08.115] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102608.116:VERBOSE1:device_event_log_impl.cc(198)] [10:26:08.115] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102650.687:VERBOSE1:device_event_log_impl.cc(198)] [10:26:50.687] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102650.687:VERBOSE1:device_event_log_impl.cc(198)] [10:26:50.687] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102722.794:VERBOSE1:device_event_log_impl.cc(198)] [10:27:22.794] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102722.794:VERBOSE1:device_event_log_impl.cc(198)] [10:27:22.794] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102822.635:VERBOSE1:device_event_log_impl.cc(198)] [10:28:22.635] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102822.635:VERBOSE1:device_event_log_impl.cc(198)] [10:28:22.635] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102838.939:VERBOSE1:device_event_log_impl.cc(198)] [10:28:38.939] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102838.939:VERBOSE1:device_event_log_impl.cc(198)] [10:28:38.939] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102900.737:VERBOSE1:device_event_log_impl.cc(198)] [10:29:00.737] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102900.737:VERBOSE1:device_event_log_impl.cc(198)] [10:29:00.737] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102924.276:VERBOSE1:device_event_log_impl.cc(198)] [10:29:24.276] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102924.276:VERBOSE1:device_event_log_impl.cc(198)] [10:29:24.276] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/102949.182:VERBOSE1:device_event_log_impl.cc(198)] [10:29:49.182] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/102949.182:VERBOSE1:device_event_log_impl.cc(198)] [10:29:49.182] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103008.733:VERBOSE1:device_event_log_impl.cc(198)] [10:30:08.732] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103008.733:VERBOSE1:device_event_log_impl.cc(198)] [10:30:08.732] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103330.518:VERBOSE1:device_event_log_impl.cc(198)] [10:33:30.518] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103330.518:VERBOSE1:device_event_log_impl.cc(198)] [10:33:30.518] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103420.031:VERBOSE1:device_event_log_impl.cc(198)] [10:34:20.031] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103420.031:VERBOSE1:device_event_log_impl.cc(198)] [10:34:20.031] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103524.955:VERBOSE1:device_event_log_impl.cc(198)] [10:35:24.955] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103524.955:VERBOSE1:device_event_log_impl.cc(198)] [10:35:24.955] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103543.300:VERBOSE1:device_event_log_impl.cc(198)] [10:35:43.300] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103543.300:VERBOSE1:device_event_log_impl.cc(198)] [10:35:43.301] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103613.966:VERBOSE1:device_event_log_impl.cc(198)] [10:36:13.967] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103613.966:VERBOSE1:device_event_log_impl.cc(198)] [10:36:13.967] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103623.561:VERBOSE1:device_event_log_impl.cc(198)] [10:36:23.562] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103623.561:VERBOSE1:device_event_log_impl.cc(198)] [10:36:23.562] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103655.774:VERBOSE1:device_event_log_impl.cc(198)] [10:36:55.774] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103655.774:VERBOSE1:device_event_log_impl.cc(198)] [10:36:55.774] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103734.402:VERBOSE1:device_event_log_impl.cc(198)] [10:37:34.402] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103734.402:VERBOSE1:device_event_log_impl.cc(198)] [10:37:34.402] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103749.142:VERBOSE1:device_event_log_impl.cc(198)] [10:37:49.142] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103749.142:VERBOSE1:device_event_log_impl.cc(198)] [10:37:49.142] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103825.078:VERBOSE1:device_event_log_impl.cc(198)] [10:38:25.077] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103825.078:VERBOSE1:device_event_log_impl.cc(198)] [10:38:25.078] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/103853.815:VERBOSE1:device_event_log_impl.cc(198)] [10:38:53.814] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/103853.815:VERBOSE1:device_event_log_impl.cc(198)] [10:38:53.814] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104000.010:VERBOSE1:device_event_log_impl.cc(198)] [10:40:00.009] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104000.010:VERBOSE1:device_event_log_impl.cc(198)] [10:40:00.009] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104002.323:VERBOSE1:device_event_log_impl.cc(198)] [10:40:02.324] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104002.323:VERBOSE1:device_event_log_impl.cc(198)] [10:40:02.324] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104341.428:VERBOSE1:device_event_log_impl.cc(198)] [10:43:41.428] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104341.428:VERBOSE1:device_event_log_impl.cc(198)] [10:43:41.428] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104440.241:VERBOSE1:device_event_log_impl.cc(198)] [10:44:40.240] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104440.241:VERBOSE1:device_event_log_impl.cc(198)] [10:44:40.241] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104707.559:VERBOSE1:device_event_log_impl.cc(198)] [10:47:07.559] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104707.559:VERBOSE1:device_event_log_impl.cc(198)] [10:47:07.560] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104744.897:VERBOSE1:device_event_log_impl.cc(198)] [10:47:44.896] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104744.897:VERBOSE1:device_event_log_impl.cc(198)] [10:47:44.896] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104820.531:VERBOSE1:device_event_log_impl.cc(198)] [10:48:20.531] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104820.531:VERBOSE1:device_event_log_impl.cc(198)] [10:48:20.531] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104844.169:VERBOSE1:device_event_log_impl.cc(198)] [10:48:44.169] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104844.169:VERBOSE1:device_event_log_impl.cc(198)] [10:48:44.170] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104914.957:VERBOSE1:device_event_log_impl.cc(198)] [10:49:14.957] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104914.957:VERBOSE1:device_event_log_impl.cc(198)] [10:49:14.957] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/104952.665:VERBOSE1:device_event_log_impl.cc(198)] [10:49:52.665] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/104952.665:VERBOSE1:device_event_log_impl.cc(198)] [10:49:52.665] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/105019.550:VERBOSE1:device_event_log_impl.cc(198)] [10:50:19.550] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/105019.550:VERBOSE1:device_event_log_impl.cc(198)] [10:50:19.550] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/105110.935:VERBOSE1:device_event_log_impl.cc(198)] [10:51:10.935] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/105110.935:VERBOSE1:device_event_log_impl.cc(198)] [10:51:10.935] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/105208.954:VERBOSE1:device_event_log_impl.cc(198)] [10:52:08.954] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/105208.954:VERBOSE1:device_event_log_impl.cc(198)] [10:52:08.954] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/105316.247:VERBOSE1:device_event_log_impl.cc(198)] [10:53:16.247] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/105316.247:VERBOSE1:device_event_log_impl.cc(198)] [10:53:16.247] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/105444.706:VERBOSE1:device_event_log_impl.cc(198)] [10:54:44.706] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/105444.706:VERBOSE1:device_event_log_impl.cc(198)] [10:54:44.706] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/105625.106:VERBOSE1:device_event_log_impl.cc(198)] [10:56:25.107] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/105625.106:VERBOSE1:device_event_log_impl.cc(198)] [10:56:25.107] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/110634.184:VERBOSE1:device_event_log_impl.cc(198)] [11:06:34.184] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/110634.184:VERBOSE1:device_event_log_impl.cc(198)] [11:06:34.184] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/110743.129:VERBOSE1:device_event_log_impl.cc(198)] [11:07:43.129] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/110743.129:VERBOSE1:device_event_log_impl.cc(198)] [11:07:43.129] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[21676:6832:1118/110820.562:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[21676:6832:1118/110820.562:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[21676:6832:1118/110820.562:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[15744:8012:1118/110859.887:VERBOSE1:device_event_log_impl.cc(198)] [11:08:59.886] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/110859.887:VERBOSE1:device_event_log_impl.cc(198)] [11:08:59.886] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/111324.309:VERBOSE1:device_event_log_impl.cc(198)] [11:13:24.309] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/111324.310:VERBOSE1:device_event_log_impl.cc(198)] [11:13:24.309] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/111554.328:VERBOSE1:device_event_log_impl.cc(198)] [11:15:54.328] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/111554.328:VERBOSE1:device_event_log_impl.cc(198)] [11:15:54.328] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/111610.841:VERBOSE1:device_event_log_impl.cc(198)] [11:16:10.842] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/111610.841:VERBOSE1:device_event_log_impl.cc(198)] [11:16:10.842] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/111813.391:VERBOSE1:device_event_log_impl.cc(198)] [11:18:13.392] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/111813.391:VERBOSE1:device_event_log_impl.cc(198)] [11:18:13.392] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/112226.024:VERBOSE1:device_event_log_impl.cc(198)] [11:22:26.024] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/112226.024:VERBOSE1:device_event_log_impl.cc(198)] [11:22:26.025] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/112346.112:VERBOSE1:device_event_log_impl.cc(198)] [11:23:46.112] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/112346.112:VERBOSE1:device_event_log_impl.cc(198)] [11:23:46.112] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/112410.848:VERBOSE1:device_event_log_impl.cc(198)] [11:24:10.849] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/112410.848:VERBOSE1:device_event_log_impl.cc(198)] [11:24:10.849] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/112446.351:VERBOSE1:device_event_log_impl.cc(198)] [11:24:46.351] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/112446.351:VERBOSE1:device_event_log_impl.cc(198)] [11:24:46.351] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/112945.984:VERBOSE1:device_event_log_impl.cc(198)] [11:29:45.982] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/112945.984:VERBOSE1:device_event_log_impl.cc(198)] [11:29:45.983] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/113118.232:VERBOSE1:device_event_log_impl.cc(198)] [11:31:18.232] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/113118.232:VERBOSE1:device_event_log_impl.cc(198)] [11:31:18.232] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/113154.069:VERBOSE1:device_event_log_impl.cc(198)] [11:31:54.069] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/113154.069:VERBOSE1:device_event_log_impl.cc(198)] [11:31:54.069] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/113310.936:VERBOSE1:device_event_log_impl.cc(198)] [11:33:10.934] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/113310.936:VERBOSE1:device_event_log_impl.cc(198)] [11:33:10.934] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/113342.067:VERBOSE1:device_event_log_impl.cc(198)] [11:33:42.067] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/113342.067:VERBOSE1:device_event_log_impl.cc(198)] [11:33:42.067] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/113506.945:VERBOSE1:device_event_log_impl.cc(198)] [11:35:06.945] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/113506.945:VERBOSE1:device_event_log_impl.cc(198)] [11:35:06.945] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/113737.647:VERBOSE1:device_event_log_impl.cc(198)] [11:37:37.647] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/113737.647:VERBOSE1:device_event_log_impl.cc(198)] [11:37:37.647] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/113833.896:VERBOSE1:device_event_log_impl.cc(198)] [11:38:33.896] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/113833.896:VERBOSE1:device_event_log_impl.cc(198)] [11:38:33.896] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/113944.403:VERBOSE1:device_event_log_impl.cc(198)] [11:39:44.403] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/113944.403:VERBOSE1:device_event_log_impl.cc(198)] [11:39:44.403] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
+[15744:8012:1118/114102.472:VERBOSE1:device_event_log_impl.cc(198)] [11:41:02.472] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[15744:8012:1118/114102.472:VERBOSE1:device_event_log_impl.cc(198)] [11:41:02.473] Display: EVENT: screen_win.cc:895 Display[9740170] bounds=[0,0 3440x1440], workarea=[0,0 3440x1392], scale=1, rotation=0, panel_rotation=0 external detected
